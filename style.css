@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*CSS Document*/
+	body {background-image: url("multimedija/pozadina.jpg");}
+	h2 {color: #681a1a;
+	background-color: f5e9dc;
+	padding: 5px 10px;
+	line-height: 28px;
+	border: 1px solid  #681a1a;
+	width: 100px;
+	border-radius: 5px;}
